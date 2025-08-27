@@ -3,6 +3,7 @@
 ScriptAuth plugin for 3PROXY.
 
 This plugin allows to validate (proxy) client's username and password using script file.
+## Updated the scriptauth.c is per the required need.
 
 ## Install
 
